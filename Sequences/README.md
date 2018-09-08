@@ -1,4 +1,4 @@
 # Sequences Helper :3
 
 
-![N](https://raw.githubusercontent.com/xpinked/ctf-writeups/master/noxCTF18/Web/HiddenDOM/Screenshots/Screenshot_1.png)
+![N](https://raw.githubusercontent.com/xpinked/math-real-analysis/master/Sequences/pic.png)
