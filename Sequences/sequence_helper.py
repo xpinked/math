@@ -34,7 +34,7 @@ def logo():
 def My_n_Place(a1,k):
     x=d(a1)#x=a1
     for i in range(1,k):
-        x = (k+1)/(k+2)
+        x = (d(k)+1)/(k+2)
         #you can define x as an explicit sequence using k
         #for recusive function, use x
         #as default a1=1 but for a sequence, it dosen't matter.
