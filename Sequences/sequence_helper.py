@@ -124,7 +124,7 @@ def Monotonic_Checker():
 #Cheks for the Limit, only for Converging Sequences 
 def a_limit():       
     while True:
-        Limit=raw_input("""Would you like to check the limit?\n***Works only if your Sequence Converge***\n""")
+        Limit=iinput("""Would you like to check the limit?\n***Works only if your Sequence Converge***\n""")
         if Limit in ['yes','y','Y','Yes','YES']:
             print("\n Horray here is an approximation for the limit: \n")
             print(My_n_Place(1,1100)) # you can change here the estimation
