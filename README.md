@@ -1,4 +1,9 @@
-# math-real-analysis
-This repository holds several python projects surrounding my study of real analysis
+# math
+This repository holds several python projects, notes, or remarks surrounding my study of math.
+
+--Currently Studing:--
+-Real Analaysis
+-Linear Algebra
+-Discrete Math
 
 (Mainly for h.w douh :3)
